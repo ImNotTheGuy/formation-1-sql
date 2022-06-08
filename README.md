@@ -9,7 +9,7 @@
 
 
 
- 
+
 # 02.06.2022 - 07.06.2022 - Introduction to SQL
 
 - Support de cours:
