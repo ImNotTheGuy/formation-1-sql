@@ -10,7 +10,7 @@ create table utilisateurs(
     id integer not null auto_increment primary key,
     nom varchar(50) not null,
     prenom varchar(50) not null,
-    pseudo varchar(50) not null unique,
+    pseudo varchar(50) not null unique, 
     email varchar(50) not null unique,
     avatar varchar(200) not null
 );
